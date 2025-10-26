@@ -63,7 +63,7 @@ contract VehicleTitleRegistry is AccessControl {
         });
 
         vinExists[vin] = true;
-        vehiclesByOwner[msg.sender].push(id);
+         vehiclesByOwner[msg.sender].push(id);
 
         emit VehicleRegistered(id, msg.sender, vin);
         return id;
@@ -82,3 +82,4 @@ contract VehicleTitleRegistry is AccessControl {
         emit OwnershipTransferred(id, msg.sender, newOwner);
     }
 }
+
