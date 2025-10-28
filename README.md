@@ -13,6 +13,8 @@ The **Vehicle Title Registry dApp** enables:
 - Secure and transparent title transfers between buyers and sellers.  
 - Immutable ownership history records accessible to all stakeholders.
 
+
+
 ---
 
 ## 🧠 Key Features
