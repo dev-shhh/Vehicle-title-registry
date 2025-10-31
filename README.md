@@ -69,7 +69,7 @@ vehicle-title-registry-dapp/
 
 ### 1️⃣ Clone the Repository
 bash
-git clone https://github.com/your-username/vehicle-title-registry-dapp.git
+git clone https://github.com/dev-shh/vehicle-title-registry-dapp.git
 cd vehicle-title-registry-dapp
 
 2️⃣ Install Dependencies
