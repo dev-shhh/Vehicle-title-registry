@@ -116,3 +116,8 @@ AI-assisted fraud detection for suspicious ownership patterns
 
 Support for NFT-based vehicle representation
 
+## Contract Deployment 
+contract address : 0x6a2F829f8fCc5fFC2659258A2492907f0d1915c7
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/18f2d8f3-938a-463e-85d3-1e6839813e11" />
+
+
